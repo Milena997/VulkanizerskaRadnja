@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"auto_radnja.gume","l":"AutoGuma"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"auto_radnja.gume","l":"AutoGuma"},{"p":"auto_radnja","l":"Radnja"},{"p":"auto_radnja","l":"VulkanizerskaRadnja"}];updateSearchResults();
