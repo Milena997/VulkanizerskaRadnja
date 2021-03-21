@@ -1,9 +1,11 @@
 package auto_radnja;
-import java.util.LinkedList;
-import auto_radnja.gume.AutoGuma;
 
+import java.util.LinkedList;
+
+import auto_radnja.gume.AutoGuma;
 /**
  * Interfejs koji implementira radnju
+ * 
  * @author Milena
  *
  */
